@@ -1,0 +1,8 @@
+{
+  "name": "AIWinLab AI Consultant",
+  "description": "A comprehensive AI readiness assessment tool that guides businesses through a detailed questionnaire and generates a strategic report using Gemini to outline actionable AI initiatives.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
